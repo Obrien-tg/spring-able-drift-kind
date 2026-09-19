@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PG Tutoring Hub",
+      "hasCanvas": false,
+      "bodyTextLen": 3931,
+      "bodyTextHash": "f430ba5f92a8409da59b263b7a56465a592f13f4fb11cbb7e40d3f3a514862b1",
+      "bodyTextPrefix": "PG Tutoring Hub How it works Subjects Plans FAQ PRIMARY SCHOOL T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PG Tutoring Hub",
+      "hasCanvas": false,
+      "bodyTextLen": 3899,
+      "bodyTextHash": "084d0e5bf4f07fe54b422ed4c94528d323dadcf01bd67b23a7449c276b893ad9",
+      "bodyTextPrefix": "PG Tutoring Hub PRIMARY SCHOOL TUTORING · PATIENCE GWANYANYA Lea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
